@@ -1,0 +1,6 @@
+Example:
+
+Credit card payments generate highest revenue
+Certain states contribute most sales
+Some product categories dominate overall revenue
+Monthly sales show seasonal trends
